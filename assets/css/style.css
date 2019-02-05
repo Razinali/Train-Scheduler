@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(226, 8, 8, 0.788); 
+    color: rgb(165, 150, 16);
+    font-family: 'Arapey', serif;
+    
+}
+
+
+.jumbotron {
+    font-family: 'Arapey', serif;
+    text-align: center;
+    background-size: cover;
+    text-decoration-color: white;
+    background-image: url("../images/5.jpg");
+    /* padding-top: 10px; */
+    margin-top: 10px;
+
+}
+
+/* #current-time{
+} */
+
+
+#train-table th,
+td {
+  display: inline-block;
+  width: 16.575%;
+  font-family: 'Arapey', serif;
+} 
